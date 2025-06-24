@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Sharon Nisha Arul Justin
 
-<!--
-**SharonArulJustin/SharonArulJustin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc Big Data & Data Science student at Northumbria University, London  
+🔍 Passionate about data analysis, machine learning, and visualization  
+📊 Skilled in Python, SQL, Tableau, Excel, and Jupyter Notebook
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Projects
+
+### 🔹 Bankruptcy Prediction Model  
+Built a machine learning model to predict company bankruptcy using financial data and logistic regression.
+
+### 🔹 Mental Health Dashboard  
+Created a Tableau dashboard to visualize mental health and stress patterns among remote workers.
+
+
+## 🧰 Tools & Technologies
+- Python, SQL, Tableau, Excel  
+- pandas, scikit-learn, NumPy  
+- Git, Jupyter Notebook
+
+
+## 📫 Let’s Connect
+- 🌐 [LinkedIn](https://linkedin.com/in/sharonnisha)  
+- 📧 nishasingh27666@gmail.com
+
+⭐️ Open to internships and collaborative data projects
